@@ -6,3 +6,4 @@ danger=0
 while danger<=0 or danger>4 :
 
     danger=float(input('Введите максимально допустимый уровень опасности:'))
+print (abs(indepht(danger)))
